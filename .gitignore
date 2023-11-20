@@ -23,6 +23,8 @@ dist
 .DS_Store
 .env*
 
+/src-tauri/Cargo.lock
+
 # debug
 npm-debug.log*
 yarn-debug.log*
