@@ -6,6 +6,9 @@ dist
 /.pnp
 .pnp.js
 
+# vscode
+/.vscode
+
 # testing
 /coverage
 
